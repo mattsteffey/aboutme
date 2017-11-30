@@ -1,0 +1,75 @@
+body {
+	background-image: url("https://static.pexels.com/photos/289750/pexels-photo-289750.jpeg");
+	background-size: 1500px 900px;
+}
+
+h2 {
+	font-family: 'Gloria Hallelujah', cursive;
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Gloria Hallelujah', cursive;
+	text-align: center;
+	font-size: 72px;
+	margin: -60px -60px -60px -60px;
+}
+
+
+.content {
+	font-family: 'Amatic SC', cursive;
+	width: 800px;
+	height: 500px;
+	margin: 0 auto;
+	background-color: #F9E8BE;
+	color: #78632F;
+	font-size: 30px;
+	font-weight: bold;
+	letter-spacing: 1.5px;
+	margin-top: 0px;
+	border-radius: 20px;
+	position: relative;
+	padding: 10px;
+}
+
+h3 {
+	
+	font-family: 'Gloria Hallelujah', cursive;
+	height: 40px;
+
+}
+
+#aboutme, #portfolio {
+	color: #000000;
+	display: inline;
+	background-color: #F9E8BE;
+	border-radius: 15px;
+	padding: 10px;
+
+
+}
+
+#notit, #notit2 {
+	color: #000000;
+	display: inline;
+	background-color: #78632F;
+	border-radius: 15px;
+	padding: 10px;
+
+}
+
+footer {
+	text-align: center;
+	padding-top: 15px;
+	font-family: 'Amatic SC', cursive;
+	font-weight: bolder;
+}
+
+.icons {
+	padding-top: 15px;
+
+}
+
+a:link {
+	text-decoration: none;
+}
