@@ -1,6 +1,7 @@
 body {
 	background-image: url("https://static.pexels.com/photos/289750/pexels-photo-289750.jpeg");
 	background-size: 1500px 900px;
+	
 }
 
 h2 {
@@ -72,4 +73,8 @@ footer {
 
 a:link {
 	text-decoration: none;
+}
+
+.icons {
+	padding-top: 20px;
 }
